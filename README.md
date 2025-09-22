@@ -30,11 +30,11 @@ Code used to implement the triplet-loss learning architecture as first presented
        - ...
        - photo_2_N.jpg
      - ...
-     - animal_N
-       - photo_N_1.jpg
-       - photo_N_2.jpg
+     - animal_M
+       - photo_M_1.jpg
+       - photo_M_2.jpg
        - ...
-       - photo_N_N.jpg
+       - photo_M_N.jpg
  2. Run the python program, providing as arguments
      - the folder with the images and
      - the desired output destination.
